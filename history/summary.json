@@ -1,23 +1,5 @@
 [
   {
-    "name": "E4CC",
-    "url": "$PAGE1",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "e4-cc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Portal Coach",
     "url": "$PAGE2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 88,
-    "timeWeek": 88,
-    "timeMonth": 88,
-    "timeYear": 88,
+    "time": 202,
+    "timeDay": 202,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   }
 ]
