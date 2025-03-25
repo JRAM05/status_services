@@ -6,7 +6,7 @@ Skip delete issues: true
   
 sites:
 - name: E4CC
-  url: $Main_Site
+  url: $MAIN_SITE
   icon: https://e4ccsv.com/Uploads/Img/ms-icon-70x70.png
   maxResponseTime: 5000
   delay: 5000
@@ -19,7 +19,7 @@ sites:
   - 502   # Bad Gateway, respuesta no válida del servidor ascendente
   - 503   # Service Unavailable, servidor no disponible
 - name: Portal Coach
-  url: $Second_Site 
+  url: $SECOND_SITE
   icon: https://e4ccsv.com/Uploads/Img/ms-icon-70x70.png
   maxResponseTime: 5000
   delay: 5000
